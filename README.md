@@ -35,8 +35,9 @@
   <br>
   <br>
 
+
   [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:vituhroos@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/victor-roos-14104635b/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/victor-roos-14104635b/)
   
 </div>
 
