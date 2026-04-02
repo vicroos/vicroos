@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Victor Roos, atualmente sou estudante de Análise e Desenvolvimento de Sistemas na UniAnchieta, finalizei um curso de aplicação de banco de dados da FAT e estou com um de PL-900 em andamento no SENAI.</p>
+<p align="left">Olá! Sou o Victor Roos, estudante de Análise e Desenvolvimento de Sistemas na UniAnchieta. Sou apaixonado por tecnologia e estou em constante aprendizado. Atualmente, estou cursando Arquitetura de Sistemas pela Fundação FAT. Também possuo formações complementares concluídas em PL-900 pelo SENAI e Aplicação de Banco de Dados pela FAT.</p>
 
 ###
 
